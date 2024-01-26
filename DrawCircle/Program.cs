@@ -17,7 +17,7 @@ namespace Circle
             int userInput;
             while (!int.TryParse(Console.ReadLine(), out userInput) || userInput <= 0)
             {
-                Console.WriteLine("<><> Geçersiz değer, lütfen geçerli bir değer girin <><>");
+                Console.WriteLine("<><> Invalid Value ! Please enter valid value. <><>");
                 Console.Write("|---->: ");
             }
 
