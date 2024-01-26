@@ -1,0 +1,14 @@
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateAvarage\bin\Debug\net7.0\CalculateAvarage.exe
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateAvarage\bin\Debug\net7.0\CalculateAvarage.deps.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateAvarage\bin\Debug\net7.0\CalculateAvarage.runtimeconfig.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateAvarage\bin\Debug\net7.0\CalculateAvarage.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateAvarage\bin\Debug\net7.0\CalculateAvarage.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateAvarage\obj\Debug\net7.0\CalculateAvarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateAvarage\obj\Debug\net7.0\CalculateAvarage.AssemblyInfoInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateAvarage\obj\Debug\net7.0\CalculateAvarage.AssemblyInfo.cs
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateAvarage\obj\Debug\net7.0\CalculateAvarage.csproj.CoreCompileInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateAvarage\obj\Debug\net7.0\CalculateAvarage.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateAvarage\obj\Debug\net7.0\refint\CalculateAvarage.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateAvarage\obj\Debug\net7.0\CalculateAvarage.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateAvarage\obj\Debug\net7.0\CalculateAvarage.genruntimeconfig.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateAvarage\obj\Debug\net7.0\ref\CalculateAvarage.dll
