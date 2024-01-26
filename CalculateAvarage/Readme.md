@@ -9,3 +9,5 @@
 * Points to be considered:
 * Code repetition should be avoided
 * The application should be divided into classes and methods, following the Single Responsibility rule.
+***
+![Alt text](CalculateAvarage.png)
