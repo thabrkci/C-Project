@@ -1,0 +1,14 @@
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\DrawCircle\bin\Debug\net7.0\DrawCircle.exe
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\DrawCircle\bin\Debug\net7.0\DrawCircle.deps.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\DrawCircle\bin\Debug\net7.0\DrawCircle.runtimeconfig.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\DrawCircle\bin\Debug\net7.0\DrawCircle.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\DrawCircle\bin\Debug\net7.0\DrawCircle.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\DrawCircle\obj\Debug\net7.0\DrawCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\DrawCircle\obj\Debug\net7.0\DrawCircle.AssemblyInfoInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\DrawCircle\obj\Debug\net7.0\DrawCircle.AssemblyInfo.cs
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\DrawCircle\obj\Debug\net7.0\DrawCircle.csproj.CoreCompileInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\DrawCircle\obj\Debug\net7.0\DrawCircle.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\DrawCircle\obj\Debug\net7.0\refint\DrawCircle.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\DrawCircle\obj\Debug\net7.0\DrawCircle.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\DrawCircle\obj\Debug\net7.0\DrawCircle.genruntimeconfig.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\DrawCircle\obj\Debug\net7.0\ref\DrawCircle.dll
