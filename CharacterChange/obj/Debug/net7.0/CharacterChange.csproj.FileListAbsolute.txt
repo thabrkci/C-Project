@@ -1,0 +1,14 @@
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CharacterChange\bin\Debug\net7.0\CharacterChange.exe
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CharacterChange\bin\Debug\net7.0\CharacterChange.deps.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CharacterChange\bin\Debug\net7.0\CharacterChange.runtimeconfig.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CharacterChange\bin\Debug\net7.0\CharacterChange.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CharacterChange\bin\Debug\net7.0\CharacterChange.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CharacterChange\obj\Debug\net7.0\CharacterChange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CharacterChange\obj\Debug\net7.0\CharacterChange.AssemblyInfoInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CharacterChange\obj\Debug\net7.0\CharacterChange.AssemblyInfo.cs
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CharacterChange\obj\Debug\net7.0\CharacterChange.csproj.CoreCompileInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CharacterChange\obj\Debug\net7.0\CharacterChange.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CharacterChange\obj\Debug\net7.0\refint\CharacterChange.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CharacterChange\obj\Debug\net7.0\CharacterChange.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CharacterChange\obj\Debug\net7.0\CharacterChange.genruntimeconfig.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CharacterChange\obj\Debug\net7.0\ref\CharacterChange.dll
