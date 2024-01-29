@@ -1,0 +1,14 @@
+c:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateArea\bin\Debug\net7.0\CalculateArea.exe
+c:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateArea\bin\Debug\net7.0\CalculateArea.deps.json
+c:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateArea\bin\Debug\net7.0\CalculateArea.runtimeconfig.json
+c:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateArea\bin\Debug\net7.0\CalculateArea.dll
+c:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateArea\bin\Debug\net7.0\CalculateArea.pdb
+c:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateArea\obj\Debug\net7.0\CalculateArea.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateArea\obj\Debug\net7.0\CalculateArea.AssemblyInfoInputs.cache
+c:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateArea\obj\Debug\net7.0\CalculateArea.AssemblyInfo.cs
+c:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateArea\obj\Debug\net7.0\CalculateArea.csproj.CoreCompileInputs.cache
+c:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateArea\obj\Debug\net7.0\CalculateArea.dll
+c:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateArea\obj\Debug\net7.0\refint\CalculateArea.dll
+c:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateArea\obj\Debug\net7.0\CalculateArea.pdb
+c:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateArea\obj\Debug\net7.0\CalculateArea.genruntimeconfig.cache
+c:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\CalculateArea\obj\Debug\net7.0\ref\CalculateArea.dll
