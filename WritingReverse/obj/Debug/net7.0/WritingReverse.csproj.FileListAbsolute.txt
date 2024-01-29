@@ -1,0 +1,14 @@
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\WritingReverse\bin\Debug\net7.0\WritingReverse.exe
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\WritingReverse\bin\Debug\net7.0\WritingReverse.deps.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\WritingReverse\bin\Debug\net7.0\WritingReverse.runtimeconfig.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\WritingReverse\bin\Debug\net7.0\WritingReverse.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\WritingReverse\bin\Debug\net7.0\WritingReverse.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\WritingReverse\obj\Debug\net7.0\WritingReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\WritingReverse\obj\Debug\net7.0\WritingReverse.AssemblyInfoInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\WritingReverse\obj\Debug\net7.0\WritingReverse.AssemblyInfo.cs
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\WritingReverse\obj\Debug\net7.0\WritingReverse.csproj.CoreCompileInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\WritingReverse\obj\Debug\net7.0\WritingReverse.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\WritingReverse\obj\Debug\net7.0\refint\WritingReverse.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\WritingReverse\obj\Debug\net7.0\WritingReverse.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\WritingReverse\obj\Debug\net7.0\WritingReverse.genruntimeconfig.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\WritingReverse\obj\Debug\net7.0\ref\WritingReverse.dll
