@@ -1,0 +1,14 @@
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\AbsoluteSquaring\bin\Debug\net7.0\AbsoluteSquaring.exe
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\AbsoluteSquaring\bin\Debug\net7.0\AbsoluteSquaring.deps.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\AbsoluteSquaring\bin\Debug\net7.0\AbsoluteSquaring.runtimeconfig.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\AbsoluteSquaring\bin\Debug\net7.0\AbsoluteSquaring.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\AbsoluteSquaring\bin\Debug\net7.0\AbsoluteSquaring.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\AbsoluteSquaring\obj\Debug\net7.0\AbsoluteSquaring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\AbsoluteSquaring\obj\Debug\net7.0\AbsoluteSquaring.AssemblyInfoInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\AbsoluteSquaring\obj\Debug\net7.0\AbsoluteSquaring.AssemblyInfo.cs
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\AbsoluteSquaring\obj\Debug\net7.0\AbsoluteSquaring.csproj.CoreCompileInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\AbsoluteSquaring\obj\Debug\net7.0\AbsoluteSquaring.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\AbsoluteSquaring\obj\Debug\net7.0\refint\AbsoluteSquaring.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\AbsoluteSquaring\obj\Debug\net7.0\AbsoluteSquaring.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\AbsoluteSquaring\obj\Debug\net7.0\AbsoluteSquaring.genruntimeconfig.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\AbsoluteSquaring\obj\Debug\net7.0\ref\AbsoluteSquaring.dll
