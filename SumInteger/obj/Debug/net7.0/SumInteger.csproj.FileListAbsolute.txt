@@ -1,0 +1,14 @@
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\SumInteger\bin\Debug\net7.0\SumInteger.exe
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\SumInteger\bin\Debug\net7.0\SumInteger.deps.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\SumInteger\bin\Debug\net7.0\SumInteger.runtimeconfig.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\SumInteger\bin\Debug\net7.0\SumInteger.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\SumInteger\bin\Debug\net7.0\SumInteger.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\SumInteger\obj\Debug\net7.0\SumInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\SumInteger\obj\Debug\net7.0\SumInteger.AssemblyInfoInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\SumInteger\obj\Debug\net7.0\SumInteger.AssemblyInfo.cs
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\SumInteger\obj\Debug\net7.0\SumInteger.csproj.CoreCompileInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\SumInteger\obj\Debug\net7.0\SumInteger.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\SumInteger\obj\Debug\net7.0\refint\SumInteger.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\SumInteger\obj\Debug\net7.0\SumInteger.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\SumInteger\obj\Debug\net7.0\SumInteger.genruntimeconfig.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\C#Project\SumInteger\obj\Debug\net7.0\ref\SumInteger.dll
