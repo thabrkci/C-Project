@@ -15,3 +15,5 @@ Single Responsibility kuralına uygun şekilde, uygulama sınıflara ve metotlar
 >* Points to Consider :
 Avoid code repetition
 Following the Single Responsibility rule, the application should be divided into classes and methods.
+***
+![CalculateArea](CalculateArea.png)
