@@ -19,7 +19,7 @@
 ---
 `Programs`
 >* 1.AbsoluteSquaring
->* 2nd Algorithm
+>* 2.Algorithm
 >* 3.AtmApp
 >* 4.BarcodeGenerator
 >* 5.CalculateArea
