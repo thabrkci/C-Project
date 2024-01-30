@@ -78,8 +78,6 @@ namespace ConsonantLetter
         public static bool ControlWords(string word)
         {
             int consecutiveConsonantCount = 0; // Keep track of consecutive consonant count.
-            string consonantLetters = "bcçdfghjklmnpqrstvwxyz";
-
             for (var i = 0; i < word.Length - 1; i++)
             {
                 // Check if both the current and next characters are consonants.
